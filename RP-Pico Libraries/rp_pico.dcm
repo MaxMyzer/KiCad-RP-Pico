@@ -1,0 +1,8 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP RP_Pico
+K pico, 2040, RP, Raspberry, Pi
+F https://datasheets.raspberrypi.com/pico/pico-datasheet.pdf
+$ENDCMP
+#
+#End Doc Library
